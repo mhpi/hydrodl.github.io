@@ -1,0 +1,10 @@
+.grid line {
+  stroke: lightgrey;
+  stroke-opacity: 0.7;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+  fill: black;  // Change the color of axis numbers to black
+  font-size: 12px;
+}
